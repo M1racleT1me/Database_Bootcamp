@@ -3,8 +3,6 @@ Relational Data Model Creation
 
 Resume: Today you will find out the construction principle of the database relational model with the help of using basic constructions of SQL (DDL / DML)
 
-💡 Tap here to leave your feedback on the project. It's anonymous and will help our team make your educational experience better. We recommend completing the survey immediately after the project.
-
 Contents
 Chapter IV
 4.1. Exercise 00 - Database Model Creation
